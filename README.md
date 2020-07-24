@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <strong>Rafat Jamader Maraz</strong>. I'm currently working on Mobile and REST API Devlopment. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it. Besides Flutter for REST API development I uses <strong>[Laravel Lumen](https://lumen.laravel.com/)</strong> and it's quite good for me. 
+I am <strong>Rafat Jamader Meraz</strong>. I'm currently working on Mobile and REST API Devlopment. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it. Besides Flutter for REST API development I uses <strong>[Laravel Lumen](https://lumen.laravel.com/)</strong> and it's quite good for me. 
 I have worked as an Android developer about 3 years. In the beginning of 2019, I dicided to move in Flutter.
 Currenty I'm learning Machine Learning to make my projects more productive. Though I'm not quite good at math but I always try to learn it with fun. Besides ML, I'm also learning networking stuffs. 
 
