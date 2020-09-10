@@ -17,9 +17,7 @@ Currenty I'm learning Machine Learning to make my projects more productive. Thou
 - Proper knowledge of Github
 - Know about business analysis
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RafatMeraz&show_icons=true" alt="RafatMeraz-Github" /> </h1>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatMeraz&show_icons=true" alt="RafatMeraz" /> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatMeraz&show_icons=true" alt="RafatMeraz" /> <img src="https://github-readme-stats.vercel.app/api?username=RafatMeraz&show_icons=true" alt="RafatMeraz-Github" /> </h1>
 
 ### Reach me at
 <br><strong>Email : </strong> razhossain201@gmail.com<br><br>[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rafatjamadermaraz/)&#9;[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009781590567)
