@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <strong>Rafat Jamader Meraz</strong>. I'm currently working on Mobile Development & Go. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it.
+I am <strong>Rafat Jamader Meraz</strong>. I'm currently working on Mobile Development. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for cross platform native app development and I really love it.
 
 ### Skills I have
 - Languages : C, Dart, Go
